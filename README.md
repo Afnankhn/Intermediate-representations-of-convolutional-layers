@@ -1,4 +1,4 @@
-# -Intermediate representations of convolutional layers
+# Intermediate representations of convolutional layers
  This repository is the practice working and learning based on the google developers tensorflow example.
 A simple convalution model is trained on the human-horse dataset and the layers are presenrted at different convalution stages of the model.
 The core idea is to understand the CNN architecture.
